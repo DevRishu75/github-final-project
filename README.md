@@ -1,8 +1,10 @@
 # github-final-product
-A calculator that calculates the Simple interest given, principal, annual rate of interest and time period
-INPUT:
-p, principal amount
-R, Annual rate of interest
-T, Time period in years
+A currency converter for checking the amount we enter in the amount box with selecting the country from currency to currency we want to check the rate and amount
+INPUT: Amount
+Country from
+Country To
 OUTPUT:
-simple Interest  = P*R*T/100
+Amount * rate of Country To
+Used an API https://v6.exchangerate-api.com/v6/4b7c60ee7daef5e44634fc14/latest 
+getting the rate of different countries
+
